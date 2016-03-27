@@ -1,0 +1,17 @@
+****************** Ver 1.2.2 - 29 OCT 2014 ##
+Cart button update issue fixed in BS3 theme.
+
+****************** Ver 1.2.1 - 08 OCT 2014 ##
+File Name corrections
+
+****************** Ver 1.2.0 - 30 SEP 2014 ##
+JQuery PHP Store Shop branded as LivelyCart
+1) Codeigniter Source code updated to latest development code dated 25 SEP 2014.
+2) Added theme for Bootstrap 3.2
+3) Minor bug fixes & improvments
+4) External libraries (JS, CSS etc) updated to its latest possible versions.
+5) SEO friendly product & category urls
+
+****************** Ver 1.0.1 - 24 NOV 2013 ##
+
+1) Minor Bugs fixed

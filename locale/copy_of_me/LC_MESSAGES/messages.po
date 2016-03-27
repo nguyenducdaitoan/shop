@@ -1,0 +1,2290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LivelyCart 1.2.0 :: JQuery PHP Store Shop\n"
+"POT-Creation-Date: 2014-09-29 18:24+0530\n"
+"PO-Revision-Date: 2014-09-29 18:24+0530\n"
+"Last-Translator: Vinod <vinod@livelyworks.net>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../../../lw_application\n"
+
+#: ../../../lw_application/config/pagination.php:6
+msgid "First"
+msgstr ""
+
+#: ../../../lw_application/config/pagination.php:9
+msgid "Last"
+msgstr ""
+
+#: ../../../lw_application/config/pagination.php:18
+msgid "&laquo; Previous"
+msgstr ""
+
+#: ../../../lw_application/config/pagination.php:19
+msgid "Next &raquo;"
+msgstr ""
+
+#: ../../../lw_application/controllers/Auth.php:60
+#: ../../../lw_application/controllers/Auth.php:210
+#: ../../../lw_application/controllers/Auth.php:298
+#: ../../../lw_application/controllers/Auth.php:387
+#: ../../../lw_application/controllers/Auth.php:512
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:15
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:47
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:123
+#: ../../../lw_application/views/bootstrap2/template.php:87
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:16
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:52
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:134
+#: ../../../lw_application/views/bootstrap3/template.php:101
+#: ../../../lw_application/views/foundation5/auth/login_form.php:15
+#: ../../../lw_application/views/foundation5/auth/login_form.php:49
+#: ../../../lw_application/views/foundation5/auth/login_form.php:132
+#: ../../../lw_application/views/foundation5/template.php:79
+msgid "Login"
+msgstr ""
+
+#: ../../../lw_application/controllers/Auth.php:61
+#: ../../../lw_application/controllers/Auth.php:163
+#: ../../../lw_application/controllers/Auth.php:457
+#: ../../../lw_application/controllers/Auth.php:534
+#: ../../../lw_application/views/bootstrap2/auth/change_email_form.php:30
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:63
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:77
+#: ../../../lw_application/views/bootstrap2/auth/unregister_form.php:21
+#: ../../../lw_application/views/bootstrap3/auth/change_email_form.php:34
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:72
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:82
+#: ../../../lw_application/views/bootstrap3/auth/unregister_form.php:21
+#: ../../../lw_application/views/foundation5/auth/change_email_form.php:36
+#: ../../../lw_application/views/foundation5/auth/login_form.php:69
+#: ../../../lw_application/views/foundation5/auth/register_form.php:77
+#: ../../../lw_application/views/foundation5/auth/unregister_form.php:21
+msgid "Password"
+msgstr ""
+
+#: ../../../lw_application/controllers/Auth.php:62
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:116
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:127
+#: ../../../lw_application/views/foundation5/auth/login_form.php:125
+msgid "Remember me"
+msgstr ""
+
+#: ../../../lw_application/controllers/Auth.php:74
+#: ../../../lw_application/controllers/Auth.php:76
+#: ../../../lw_application/controllers/Auth.php:170
+#: ../../../lw_application/controllers/Auth.php:172
+msgid "Confirmation Code"
+msgstr ""
+
+#: ../../../lw_application/controllers/Auth.php:160
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:60
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:65
+#: ../../../lw_application/views/foundation5/auth/register_form.php:60
+msgid "Username"
+msgstr ""
+
+#: ../../../lw_application/controllers/Auth.php:162
+#: ../../../lw_application/controllers/Auth.php:250
+#: ../../../lw_application/controllers/Auth.php:458
+#: ../../../lw_application/controllers/Shopping_cart.php:262
+#: ../../../lw_application/views/bootstrap2/auth/forgot_password_form.php:14
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:17
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:25
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:24
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:118
+#: ../../../lw_application/views/bootstrap3/auth/forgot_password_form.php:15
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:18
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:25
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:24
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:131
+#: ../../../lw_application/views/foundation5/auth/forgot_password_form.php:14
+#: ../../../lw_application/views/foundation5/auth/login_form.php:17
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:25
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:24
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:133
+msgid "Email"
+msgstr ""
+
+#: ../../../lw_application/controllers/Auth.php:164
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:85
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:90
+#: ../../../lw_application/views/foundation5/auth/register_form.php:85
+msgid "Confirm Password"
+msgstr ""
+
+#: ../../../lw_application/controllers/Auth.php:319
+#: ../../../lw_application/views/bootstrap2/auth/forgot_password_form.php:12
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:13
+#: ../../../lw_application/views/bootstrap3/auth/forgot_password_form.php:13
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:14
+#: ../../../lw_application/views/foundation5/auth/forgot_password_form.php:12
+#: ../../../lw_application/views/foundation5/auth/login_form.php:13
+msgid "Email or login"
+msgstr ""
+
+#: ../../../lw_application/controllers/Auth.php:364
+#: ../../../lw_application/controllers/Auth.php:419
+#: ../../../lw_application/views/bootstrap2/auth/change_password_form.php:44
+#: ../../../lw_application/views/bootstrap2/auth/reset_password_form.php:29
+#: ../../../lw_application/views/bootstrap3/auth/change_password_form.php:50
+#: ../../../lw_application/views/bootstrap3/auth/reset_password_form.php:32
+#: ../../../lw_application/views/foundation5/auth/change_password_form.php:53
+#: ../../../lw_application/views/foundation5/auth/reset_password_form.php:29
+msgid "New Password"
+msgstr ""
+
+#: ../../../lw_application/controllers/Auth.php:365
+#: ../../../lw_application/controllers/Auth.php:420
+msgid "Confirm new Password"
+msgstr ""
+
+#: ../../../lw_application/controllers/Auth.php:418
+#: ../../../lw_application/views/bootstrap2/auth/change_password_form.php:36
+#: ../../../lw_application/views/bootstrap3/auth/change_password_form.php:42
+#: ../../../lw_application/views/foundation5/auth/change_password_form.php:41
+msgid "Old Password"
+msgstr ""
+
+#: ../../../lw_application/controllers/Auth.php:731
+#: ../../../lw_application/controllers/Auth.php:744
+msgid "Verification code incorrect"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_categories.php:86
+#: ../../../lw_application/controllers/Manage_categories.php:135
+msgid "Category Name"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_categories.php:93
+msgid "Same category already Exist!!"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_categories.php:99
+msgid "Category Added!!"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_categories.php:140
+msgid "Category ID"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_categories.php:168
+msgid "Category Updated!!"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_categories.php:171
+msgid "No changes!!"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_categories.php:211
+msgid "Category Deleted"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_products.php:173
+#: ../../../lw_application/controllers/Manage_products.php:304
+msgid "Product Name"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_products.php:176
+msgid "Product Thumbnail"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_products.php:178
+#: ../../../lw_application/controllers/Manage_products.php:308
+#: ../../../lw_application/controllers/Shopping_cart.php:92
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:87
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:92
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:42
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:45
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:94
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:98
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:46
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:49
+#: ../../../lw_application/views/bootstrap3/store/temp.php:45
+#: ../../../lw_application/views/bootstrap3/store/temp.php:49
+#: ../../../lw_application/views/foundation5/store/add_product_form.php:99
+#: ../../../lw_application/views/foundation5/store/edit_product_form.php:102
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:41
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:47
+msgid "Product ID"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_products.php:182
+#: ../../../lw_application/controllers/Manage_products.php:312
+msgid "Product Price"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_products.php:185
+#: ../../../lw_application/controllers/Manage_products.php:315
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:125
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:130
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:143
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:148
+#: ../../../lw_application/views/foundation5/store/add_product_form.php:181
+#: ../../../lw_application/views/foundation5/store/edit_product_form.php:186
+msgid "Product Sizes"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_products.php:186
+#: ../../../lw_application/controllers/Manage_products.php:316
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:132
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:137
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:151
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:156
+#: ../../../lw_application/views/foundation5/store/add_product_form.php:194
+#: ../../../lw_application/views/foundation5/store/edit_product_form.php:199
+msgid "Product Colors"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_products.php:188
+#: ../../../lw_application/controllers/Manage_products.php:318
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:118
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:123
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:135
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:140
+#: ../../../lw_application/views/foundation5/store/add_product_form.php:166
+#: ../../../lw_application/views/foundation5/store/edit_product_form.php:171
+msgid "Product Details"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_products.php:237
+msgid "New Product Added!!"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_products.php:416
+#: ../../../lw_application/controllers/Settings.php:267
+msgid "Successfully Updated!!"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_products.php:420
+#: ../../../lw_application/controllers/Manage_products.php:423
+#: ../../../lw_application/controllers/Settings.php:269
+#: ../../../lw_application/controllers/Settings.php:272
+msgid "No changes"
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_products.php:490
+msgid "Thumbnail is required."
+msgstr ""
+
+#: ../../../lw_application/controllers/Manage_products.php:506
+msgid ""
+"The name can only contain alpha-numeric characters, dashes, underscores, "
+"colons, and spaces"
+msgstr ""
+
+#: ../../../lw_application/controllers/Product.php:140
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:50
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:59
+#: ../../../lw_application/views/foundation5/template/sidebar.php:66
+msgid "All Products"
+msgstr ""
+
+#: ../../../lw_application/controllers/Product.php:159
+#, php-format
+msgid "Products from %s"
+msgstr ""
+
+#: ../../../lw_application/controllers/Product.php:188
+msgid "Product id missing!!"
+msgstr ""
+
+#: ../../../lw_application/controllers/Product.php:337
+msgid "Search Result"
+msgstr ""
+
+#: ../../../lw_application/controllers/Product.php:376
+msgid "product not found"
+msgstr ""
+
+#: ../../../lw_application/controllers/Settings.php:102
+msgid "Logo"
+msgstr ""
+
+#: ../../../lw_application/controllers/Settings.php:103
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:128
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:147
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:141
+msgid "Store Name"
+msgstr ""
+
+#: ../../../lw_application/controllers/Settings.php:105
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:147
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:168
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:173
+msgid "Business Email"
+msgstr ""
+
+#: ../../../lw_application/controllers/Settings.php:109
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:177
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:193
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:200
+msgid "Currency"
+msgstr ""
+
+#: ../../../lw_application/controllers/Settings.php:113
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:189
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:202
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:216
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../../../lw_application/controllers/Settings.php:117
+msgid "Use Paypal"
+msgstr ""
+
+#: ../../../lw_application/controllers/Settings.php:121
+msgid "Use Submit Order"
+msgstr ""
+
+#: ../../../lw_application/controllers/Settings.php:125
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:202
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:219
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:241
+msgid "Shipping Charges"
+msgstr ""
+
+#: ../../../lw_application/controllers/Settings.php:129
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:212
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:229
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:261
+msgid "Shipping Free After"
+msgstr ""
+
+#: ../../../lw_application/controllers/Settings.php:134
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:223
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:244
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:277
+msgid "Message on Order Submit"
+msgstr ""
+
+#: ../../../lw_application/controllers/Settings.php:291
+msgid "Shipping amount can not less than 0"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:89
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:40
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:31
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:39
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:35
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:60
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:39
+#: ../../../lw_application/views/foundation5/store/cart_view.php:30
+msgid "Size"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:90
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:41
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:32
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:40
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:36
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:68
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:40
+#: ../../../lw_application/views/foundation5/store/cart_view.php:31
+msgid "Color"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:96
+msgid "Product Qty"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:190
+#: ../../../lw_application/views/bootstrap2/template.php:26
+#: ../../../lw_application/views/bootstrap3/template.php:26
+#: ../../../lw_application/views/foundation5/template.php:26
+msgid "item"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:190
+#: ../../../lw_application/views/bootstrap2/template.php:26
+#: ../../../lw_application/views/bootstrap3/template.php:26
+#: ../../../lw_application/views/foundation5/template.php:26
+msgid "items"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:193
+#: ../../../lw_application/views/bootstrap2/template.php:29
+#: ../../../lw_application/views/bootstrap3/template.php:29
+#: ../../../lw_application/views/foundation5/template.php:29
+msgid ""
+"<strong>%total_items%</strong> %item_select% of <strong>%glo_total%</strong> "
+"in your"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:260
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:23
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:23
+#: ../../../lw_application/views/bootstrap2/store/add_category_form.php:30
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:80
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:18
+#: ../../../lw_application/views/bootstrap2/store/edit_category_form.php:36
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:85
+#: ../../../lw_application/views/bootstrap2/store/products_list_view.php:18
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:20
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:100
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:23
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:23
+#: ../../../lw_application/views/bootstrap3/store/add_category_form.php:31
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:86
+#: ../../../lw_application/views/bootstrap3/store/categories_view.php:18
+#: ../../../lw_application/views/bootstrap3/store/edit_category_form.php:38
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:90
+#: ../../../lw_application/views/bootstrap3/store/products_list_view.php:18
+#: ../../../lw_application/views/bootstrap3/store/products_view.php:20
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:111
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:23
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:23
+#: ../../../lw_application/views/foundation5/store/add_category_form.php:31
+#: ../../../lw_application/views/foundation5/store/add_product_form.php:85
+#: ../../../lw_application/views/foundation5/store/categories_view.php:27
+#: ../../../lw_application/views/foundation5/store/edit_category_form.php:40
+#: ../../../lw_application/views/foundation5/store/edit_product_form.php:88
+#: ../../../lw_application/views/foundation5/store/products_list_view.php:19
+#: ../../../lw_application/views/foundation5/store/products_view.php:31
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:105
+msgid "Name"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:304
+#: ../../../lw_application/controllers/Shopping_cart.php:308
+#: ../../../lw_application/controllers/Shopping_cart.php:332
+msgid "pending"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:321
+#: ../../../lw_application/controllers/Shopping_cart.php:531
+msgid "New Order Placed"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:342
+#: ../../../lw_application/controllers/Shopping_cart.php:571
+msgid "Your order has been Placed."
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:486
+#: ../../../lw_application/controllers/Shopping_cart.php:506
+#: ../../../lw_application/controllers/Shopping_cart.php:544
+msgid "Payment"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:487
+#: ../../../lw_application/controllers/Shopping_cart.php:507
+#: ../../../lw_application/controllers/Shopping_cart.php:545
+msgid "PayPal"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:496
+#: ../../../lw_application/controllers/Shopping_cart.php:515
+#: ../../../lw_application/controllers/Shopping_cart.php:555
+msgid "Needs further review!!"
+msgstr ""
+
+#: ../../../lw_application/controllers/Shopping_cart.php:498
+#: ../../../lw_application/controllers/Shopping_cart.php:517
+#: ../../../lw_application/controllers/Shopping_cart.php:557
+msgid "Confirmed"
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:4
+msgid "The {field} field is required."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:5
+msgid "The {field} field must have a value."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:6
+msgid "The {field} field must contain a valid email address."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:7
+msgid "The {field} field must contain all valid email addresses."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:8
+msgid "The {field} field must contain a valid URL."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:9
+msgid "The {field} field must contain a valid IP."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:10
+msgid "The {field} field must be at least {param} characters in length."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:11
+msgid "The {field} field cannot exceed {param} characters in length."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:12
+msgid "The {field} field must be exactly {param} characters in length."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:13
+msgid "The {field} field may only contain alphabetical characters."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:14
+msgid "The {field} field may only contain alpha-numeric characters."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:15
+msgid "The {field} field may only contain alpha-numeric characters and spaces."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:16
+msgid ""
+"The {field} field may only contain alpha-numeric characters, underscores, "
+"and dashes."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:17
+msgid "The {field} field must contain only numbers."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:18
+msgid "The {field} field must contain only numeric characters."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:19
+msgid "The {field} field must contain an integer."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:20
+msgid "The {field} field is not in the correct format."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:21
+msgid "The {field} field does not match the {param} field."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:22
+msgid "The {field} field must differ from the {param} field."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:23
+msgid "The {field} field must contain a unique value."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:24
+msgid "The {field} field must only contain digits."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:25
+msgid ""
+"The {field} field must only contain digits and must be greater than zero."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:26
+msgid "The {field} field must contain a decimal number."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:27
+msgid "The {field} field must contain a number less than {param}."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:28
+msgid "The {field} field must contain a number less than or equal to {param}."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:29
+msgid "The {field} field must contain a number greater than {param}."
+msgstr ""
+
+#: ../../../lw_application/language/english/form_validation_lang.php:30
+msgid ""
+"The {field} field must contain a number greater than or equal to {param}."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:4
+msgid ""
+"We didn't recognize the username or password you entered. Please try again."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:6
+msgid "Login or email doesn\\'t exist"
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:7
+msgid "Email is already used by another user. Please choose another email."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:8
+msgid "Username already exists. Please choose another username."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:9
+msgid "This is your current email"
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:10
+msgid "Your confirmation code does not match the one in the image."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:11
+msgid "Your confirmation code has expired. Please try again."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:14
+msgid "You have been successfully logged out."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:15
+msgid "Registration is disabled."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:16
+msgid ""
+"You have successfully registered. Check your email address to activate your "
+"account."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:17
+msgid "You have successfully registered."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:18
+#, php-format
+msgid ""
+"A new activation email has been sent to %s. Follow the instructions in the "
+"email to activate your account."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:19
+msgid "Your account has been successfully activated."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:20
+msgid "The activation code you entered is incorrect or expired."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:21
+msgid "Your password has been successfully changed."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:22
+msgid ""
+"An email with instructions for creating a new password has been sent to you."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:23
+msgid "You have successfully reset your password"
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:24
+#: ../../../lw_application/language/english/tank_auth_lang.php:27
+msgid ""
+"Your activation key is incorrect or expired. Please check your email again "
+"and follow the instructions."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:25
+#, php-format
+msgid ""
+"A confirmation email has been sent to %s. Follow the instructions in the "
+"email to complete this change of email address."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:26
+msgid "You have successfully changed your email"
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:28
+msgid "You are banned."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:29
+msgid "Your account has been deleted..."
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:32
+#: ../../../lw_application/language/english/tank_auth_lang.php:33
+#, php-format
+msgid "Welcome to %s!"
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:34
+#, php-format
+msgid "Forgot your password on %s?"
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:35
+#: ../../../lw_application/views/bootstrap2/email/reset_password-html.php:4
+#: ../../../lw_application/views/bootstrap2/email/reset_password-html.php:11
+#: ../../../lw_application/views/bootstrap3/email/reset_password-html.php:4
+#: ../../../lw_application/views/bootstrap3/email/reset_password-html.php:11
+#: ../../../lw_application/views/foundation5/email/reset_password-html.php:4
+#: ../../../lw_application/views/foundation5/email/reset_password-html.php:11
+#, php-format
+msgid "Your new password on %s"
+msgstr ""
+
+#: ../../../lw_application/language/english/tank_auth_lang.php:36
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:4
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:11
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:4
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:11
+#: ../../../lw_application/views/foundation5/email/change_email-html.php:4
+#: ../../../lw_application/views/foundation5/email/change_email-html.php:11
+#, php-format
+msgid "Your new email address on %s"
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:4
+msgid "Unable to find a post variable called userfile."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:5
+msgid ""
+"The uploaded file exceeds the maximum allowed size in your PHP configuration "
+"file."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:6
+msgid ""
+"The uploaded file exceeds the maximum size allowed by the submission form."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:7
+msgid "The file was only partially uploaded."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:8
+msgid "The temporary folder is missing."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:9
+msgid "The file could not be written to disk."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:10
+msgid "The file upload was stopped by extension."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:11
+msgid "You did not select a file to upload."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:12
+msgid "The filetype you are attempting to upload is not allowed."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:13
+msgid ""
+"The file you are attempting to upload is larger than the permitted size."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:14
+msgid ""
+"The image you are attempting to upload doesn\\'t fit into the allowed "
+"dimensions."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:15
+msgid ""
+"A problem was encountered while attempting to move the uploaded file to the "
+"final destination."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:16
+msgid "The upload path does not appear to be valid."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:17
+msgid "You have not specified any allowed file types."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:18
+msgid "The file name you submitted already exists on the server."
+msgstr ""
+
+#: ../../../lw_application/language/english/upload_lang.php:19
+msgid "The upload destination folder does not appear to be writable."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/change_email_form.php:28
+#: ../../../lw_application/views/bootstrap2/template.php:99
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:31
+#: ../../../lw_application/views/bootstrap3/auth/change_email_form.php:31
+#: ../../../lw_application/views/bootstrap3/template.php:115
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:32
+#: ../../../lw_application/views/foundation5/auth/change_email_form.php:29
+#: ../../../lw_application/views/foundation5/template.php:98
+#: ../../../lw_application/views/foundation5/template/sidebar.php:34
+msgid "Change Email"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/change_email_form.php:38
+#: ../../../lw_application/views/bootstrap3/auth/change_email_form.php:42
+#: ../../../lw_application/views/foundation5/auth/change_email_form.php:50
+msgid "New email address"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/change_email_form.php:47
+#: ../../../lw_application/views/bootstrap3/auth/change_email_form.php:52
+#: ../../../lw_application/views/foundation5/auth/change_email_form.php:62
+msgid "Send confirmation email"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/change_password_form.php:34
+#: ../../../lw_application/views/bootstrap2/auth/change_password_form.php:60
+#: ../../../lw_application/views/bootstrap2/auth/reset_password_form.php:27
+#: ../../../lw_application/views/bootstrap2/auth/reset_password_form.php:45
+#: ../../../lw_application/views/bootstrap2/template.php:98
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:30
+#: ../../../lw_application/views/bootstrap3/auth/change_password_form.php:39
+#: ../../../lw_application/views/bootstrap3/auth/change_password_form.php:67
+#: ../../../lw_application/views/bootstrap3/auth/reset_password_form.php:30
+#: ../../../lw_application/views/bootstrap3/auth/reset_password_form.php:52
+#: ../../../lw_application/views/bootstrap3/template.php:114
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:31
+#: ../../../lw_application/views/foundation5/auth/change_password_form.php:36
+#: ../../../lw_application/views/foundation5/auth/change_password_form.php:74
+#: ../../../lw_application/views/foundation5/auth/reset_password_form.php:27
+#: ../../../lw_application/views/foundation5/auth/reset_password_form.php:45
+#: ../../../lw_application/views/foundation5/template.php:97
+#: ../../../lw_application/views/foundation5/template/sidebar.php:33
+msgid "Change Password"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/change_password_form.php:51
+#: ../../../lw_application/views/bootstrap2/auth/reset_password_form.php:37
+#: ../../../lw_application/views/bootstrap3/auth/change_password_form.php:58
+#: ../../../lw_application/views/bootstrap3/auth/reset_password_form.php:44
+#: ../../../lw_application/views/foundation5/auth/change_password_form.php:64
+#: ../../../lw_application/views/foundation5/auth/reset_password_form.php:37
+msgid "Confirm New Password"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/forgot_password_form.php:28
+#: ../../../lw_application/views/bootstrap3/auth/forgot_password_form.php:31
+#: ../../../lw_application/views/foundation5/auth/forgot_password_form.php:30
+msgid "Get a New Password"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/forgot_password_form.php:39
+#: ../../../lw_application/views/bootstrap3/auth/forgot_password_form.php:43
+#: ../../../lw_application/views/foundation5/auth/forgot_password_form.php:47
+msgid "Get a new password"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:76
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:98
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:86
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:103
+#: ../../../lw_application/views/foundation5/auth/login_form.php:84
+#: ../../../lw_application/views/foundation5/auth/register_form.php:98
+msgid "Get another CAPTCHA"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:77
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:99
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:87
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:104
+#: ../../../lw_application/views/foundation5/auth/login_form.php:85
+#: ../../../lw_application/views/foundation5/auth/register_form.php:99
+msgid "Get an audio CAPTCHA"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:78
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:100
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:88
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:105
+#: ../../../lw_application/views/foundation5/auth/login_form.php:86
+#: ../../../lw_application/views/foundation5/auth/register_form.php:100
+msgid "Get an image CAPTCHA"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:83
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:105
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:93
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:110
+#: ../../../lw_application/views/foundation5/auth/login_form.php:91
+#: ../../../lw_application/views/foundation5/auth/register_form.php:105
+msgid "Enter the words above"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:84
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:106
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:94
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:111
+#: ../../../lw_application/views/foundation5/auth/login_form.php:92
+#: ../../../lw_application/views/foundation5/auth/register_form.php:106
+msgid "Enter the numbers you hear"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:101
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:123
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:111
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:128
+#: ../../../lw_application/views/foundation5/auth/login_form.php:109
+#: ../../../lw_application/views/foundation5/auth/register_form.php:123
+msgid "Not readable? Change text."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:124
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:135
+#: ../../../lw_application/views/foundation5/auth/login_form.php:134
+msgid "Forgot password"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/login_form.php:125
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:57
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:134
+#: ../../../lw_application/views/bootstrap3/auth/login_form.php:136
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:62
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:139
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:144
+#: ../../../lw_application/views/foundation5/auth/login_form.php:136
+#: ../../../lw_application/views/foundation5/auth/register_form.php:57
+#: ../../../lw_application/views/foundation5/auth/register_form.php:134
+msgid "Register"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/register_form.php:68
+#: ../../../lw_application/views/bootstrap2/auth/send_again_form.php:22
+#: ../../../lw_application/views/bootstrap3/auth/register_form.php:73
+#: ../../../lw_application/views/bootstrap3/auth/send_again_form.php:22
+#: ../../../lw_application/views/foundation5/auth/register_form.php:68
+#: ../../../lw_application/views/foundation5/auth/send_again_form.php:22
+msgid "Email Address"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/send_again_form.php:20
+#: ../../../lw_application/views/bootstrap3/auth/send_again_form.php:20
+#: ../../../lw_application/views/foundation5/auth/send_again_form.php:20
+msgid "Send Activation Again"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/send_again_form.php:31
+#: ../../../lw_application/views/bootstrap3/auth/send_again_form.php:31
+#: ../../../lw_application/views/foundation5/auth/send_again_form.php:31
+msgid "Send"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/send_again_form.php:32
+#: ../../../lw_application/views/bootstrap2/template.php:101
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:32
+#: ../../../lw_application/views/bootstrap3/auth/send_again_form.php:32
+#: ../../../lw_application/views/bootstrap3/template.php:117
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:33
+#: ../../../lw_application/views/foundation5/auth/send_again_form.php:32
+#: ../../../lw_application/views/foundation5/template.php:100
+#: ../../../lw_application/views/foundation5/template/sidebar.php:35
+msgid "Logout"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/unregister_form.php:19
+#: ../../../lw_application/views/bootstrap3/auth/unregister_form.php:19
+#: ../../../lw_application/views/foundation5/auth/unregister_form.php:19
+msgid "Delete Account"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/auth/unregister_form.php:29
+#: ../../../lw_application/views/bootstrap3/auth/unregister_form.php:29
+#: ../../../lw_application/views/foundation5/auth/unregister_form.php:29
+msgid "Delete account"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:4
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:11
+#: ../../../lw_application/views/bootstrap2/email/activate-txt.php:2
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:4
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:11
+#: ../../../lw_application/views/bootstrap2/email/welcome-txt.php:2
+#: ../../../lw_application/views/bootstrap3/email/activate-html.php:4
+#: ../../../lw_application/views/bootstrap3/email/activate-html.php:11
+#: ../../../lw_application/views/bootstrap3/email/activate-txt.php:2
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:4
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:11
+#: ../../../lw_application/views/bootstrap3/email/welcome-txt.php:2
+#: ../../../lw_application/views/foundation5/email/activate-html.php:4
+#: ../../../lw_application/views/foundation5/email/activate-html.php:11
+#: ../../../lw_application/views/foundation5/email/activate-txt.php:2
+#: ../../../lw_application/views/foundation5/email/welcome-html.php:4
+#: ../../../lw_application/views/foundation5/email/welcome-html.php:11
+#: ../../../lw_application/views/foundation5/email/welcome-txt.php:2
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:12
+#: ../../../lw_application/views/bootstrap2/email/activate-txt.php:4
+#: ../../../lw_application/views/bootstrap3/email/activate-html.php:12
+#: ../../../lw_application/views/bootstrap3/email/activate-txt.php:4
+#: ../../../lw_application/views/foundation5/email/activate-html.php:12
+#: ../../../lw_application/views/foundation5/email/activate-txt.php:4
+#, php-format
+msgid ""
+"Thanks for joining %s. We listed your sign in details below, make sure you "
+"keep them safe."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:14
+#: ../../../lw_application/views/bootstrap2/email/activate-txt.php:5
+#: ../../../lw_application/views/bootstrap3/email/activate-html.php:14
+#: ../../../lw_application/views/bootstrap3/email/activate-txt.php:5
+#: ../../../lw_application/views/foundation5/email/activate-html.php:14
+#: ../../../lw_application/views/foundation5/email/activate-txt.php:5
+msgid "To verify your email address, please follow this link:"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:16
+#: ../../../lw_application/views/bootstrap3/email/activate-html.php:16
+#: ../../../lw_application/views/foundation5/email/activate-html.php:16
+msgid "Finish your registration..."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:18
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:18
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:17
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:18
+#: ../../../lw_application/views/bootstrap3/email/activate-html.php:18
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:18
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:17
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:18
+#: ../../../lw_application/views/foundation5/email/activate-html.php:18
+#: ../../../lw_application/views/foundation5/email/change_email-html.php:18
+#: ../../../lw_application/views/foundation5/email/forgot_password-html.php:17
+#: ../../../lw_application/views/foundation5/email/welcome-html.php:18
+msgid "Link doesn't work? Copy the following link to your browser address bar:"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:21
+#: ../../../lw_application/views/bootstrap2/email/activate-txt.php:10
+#: ../../../lw_application/views/bootstrap3/email/activate-html.php:21
+#: ../../../lw_application/views/bootstrap3/email/activate-txt.php:10
+#: ../../../lw_application/views/foundation5/email/activate-html.php:21
+#: ../../../lw_application/views/foundation5/email/activate-txt.php:10
+#, php-format
+msgid ""
+"Please verify your email within %s hours, otherwise your registration will "
+"become invalid and you will have to register again."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:25
+#: ../../../lw_application/views/bootstrap2/email/activate-txt.php:13
+#: ../../../lw_application/views/bootstrap2/email/reset_password-html.php:15
+#: ../../../lw_application/views/bootstrap2/email/reset_password-txt.php:8
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:22
+#: ../../../lw_application/views/bootstrap2/email/welcome-txt.php:11
+#: ../../../lw_application/views/bootstrap3/email/activate-html.php:25
+#: ../../../lw_application/views/bootstrap3/email/activate-txt.php:13
+#: ../../../lw_application/views/bootstrap3/email/reset_password-html.php:15
+#: ../../../lw_application/views/bootstrap3/email/reset_password-txt.php:8
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:22
+#: ../../../lw_application/views/bootstrap3/email/welcome-txt.php:11
+#: ../../../lw_application/views/foundation5/email/activate-html.php:25
+#: ../../../lw_application/views/foundation5/email/activate-txt.php:13
+#: ../../../lw_application/views/foundation5/email/reset_password-html.php:15
+#: ../../../lw_application/views/foundation5/email/reset_password-txt.php:8
+#: ../../../lw_application/views/foundation5/email/welcome-html.php:22
+#: ../../../lw_application/views/foundation5/email/welcome-txt.php:11
+msgid "Your username:"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:30
+#: ../../../lw_application/views/bootstrap2/email/activate-txt.php:24
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:27
+#: ../../../lw_application/views/bootstrap2/email/welcome-txt.php:20
+#: ../../../lw_application/views/bootstrap3/email/activate-html.php:30
+#: ../../../lw_application/views/bootstrap3/email/activate-txt.php:24
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:27
+#: ../../../lw_application/views/bootstrap3/email/welcome-txt.php:20
+#: ../../../lw_application/views/foundation5/email/activate-html.php:30
+#: ../../../lw_application/views/foundation5/email/activate-txt.php:24
+#: ../../../lw_application/views/foundation5/email/welcome-html.php:27
+#: ../../../lw_application/views/foundation5/email/welcome-txt.php:20
+msgid "Have fun!"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/activate-html.php:31
+#: ../../../lw_application/views/bootstrap2/email/activate-txt.php:25
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:30
+#: ../../../lw_application/views/bootstrap2/email/change_email-txt.php:18
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:25
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:15
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:76
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:79
+#: ../../../lw_application/views/bootstrap2/email/reset_password-html.php:21
+#: ../../../lw_application/views/bootstrap2/email/reset_password-txt.php:18
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:28
+#: ../../../lw_application/views/bootstrap2/email/welcome-txt.php:21
+#: ../../../lw_application/views/bootstrap3/email/activate-html.php:31
+#: ../../../lw_application/views/bootstrap3/email/activate-txt.php:25
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:30
+#: ../../../lw_application/views/bootstrap3/email/change_email-txt.php:18
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:25
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:15
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:74
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:78
+#: ../../../lw_application/views/bootstrap3/email/reset_password-html.php:21
+#: ../../../lw_application/views/bootstrap3/email/reset_password-txt.php:18
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:28
+#: ../../../lw_application/views/bootstrap3/email/welcome-txt.php:21
+#: ../../../lw_application/views/foundation5/email/activate-html.php:31
+#: ../../../lw_application/views/foundation5/email/activate-txt.php:25
+#: ../../../lw_application/views/foundation5/email/change_email-html.php:30
+#: ../../../lw_application/views/foundation5/email/change_email-txt.php:18
+#: ../../../lw_application/views/foundation5/email/forgot_password-html.php:25
+#: ../../../lw_application/views/foundation5/email/forgot_password-txt.php:15
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:74
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:78
+#: ../../../lw_application/views/foundation5/email/reset_password-html.php:21
+#: ../../../lw_application/views/foundation5/email/reset_password-txt.php:18
+#: ../../../lw_application/views/foundation5/email/welcome-html.php:28
+#: ../../../lw_application/views/foundation5/email/welcome-txt.php:21
+#, php-format
+msgid "The %s Team"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:12
+#: ../../../lw_application/views/bootstrap2/email/change_email-txt.php:4
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:12
+#: ../../../lw_application/views/bootstrap3/email/change_email-txt.php:4
+#: ../../../lw_application/views/foundation5/email/change_email-html.php:12
+#: ../../../lw_application/views/foundation5/email/change_email-txt.php:4
+#, php-format
+msgid "You have changed your email address for %s"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:14
+#: ../../../lw_application/views/bootstrap2/email/change_email-txt.php:6
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:14
+#: ../../../lw_application/views/bootstrap3/email/change_email-txt.php:6
+#: ../../../lw_application/views/foundation5/email/change_email-html.php:14
+#: ../../../lw_application/views/foundation5/email/change_email-txt.php:6
+msgid "Follow this link to confirm your new email address:"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:16
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:16
+#: ../../../lw_application/views/foundation5/email/change_email-html.php:16
+msgid "Confirm your new email"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:22
+#: ../../../lw_application/views/bootstrap2/email/change_email-txt.php:11
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:22
+#: ../../../lw_application/views/bootstrap3/email/change_email-txt.php:11
+#: ../../../lw_application/views/foundation5/email/change_email-html.php:22
+#: ../../../lw_application/views/foundation5/email/change_email-txt.php:11
+#, php-format
+msgid "Your email address: %s"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:26
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:26
+#: ../../../lw_application/views/foundation5/email/change_email-html.php:26
+msgid "You received this email, because it was requested by  by a user on"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:26
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:26
+#: ../../../lw_application/views/foundation5/email/change_email-html.php:26
+#, php-format
+msgid "%s user"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:26
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:26
+#: ../../../lw_application/views/foundation5/email/change_email-html.php:26
+msgid ""
+"If you have received this by mistake, please DO NOT click the confirmation "
+"link, and simply delete this email. After a short time, the request will be "
+"removed from the system."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-html.php:29
+#: ../../../lw_application/views/bootstrap2/email/change_email-txt.php:17
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:24
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:14
+#: ../../../lw_application/views/bootstrap2/email/reset_password-html.php:20
+#: ../../../lw_application/views/bootstrap2/email/reset_password-txt.php:17
+#: ../../../lw_application/views/bootstrap3/email/change_email-html.php:29
+#: ../../../lw_application/views/bootstrap3/email/change_email-txt.php:17
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:24
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:14
+#: ../../../lw_application/views/bootstrap3/email/reset_password-html.php:20
+#: ../../../lw_application/views/bootstrap3/email/reset_password-txt.php:17
+#: ../../../lw_application/views/foundation5/email/change_email-html.php:29
+#: ../../../lw_application/views/foundation5/email/change_email-txt.php:17
+#: ../../../lw_application/views/foundation5/email/forgot_password-html.php:24
+#: ../../../lw_application/views/foundation5/email/forgot_password-txt.php:14
+#: ../../../lw_application/views/foundation5/email/reset_password-html.php:20
+#: ../../../lw_application/views/foundation5/email/reset_password-txt.php:17
+msgid "Thank you,"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/change_email-txt.php:14
+#: ../../../lw_application/views/bootstrap3/email/change_email-txt.php:14
+#: ../../../lw_application/views/foundation5/email/change_email-txt.php:14
+#, php-format
+msgid ""
+"You received this email, because it was requested by a %s user. If you have "
+"received this by mistake, please DO NOT click the confirmation link, and "
+"simply delete this email. After a short time, the request will be removed "
+"from the system."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:4
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:4
+#: ../../../lw_application/views/foundation5/email/forgot_password-html.php:4
+#, php-format
+msgid "Create a new password on %s"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:11
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:15
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:11
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:15
+#: ../../../lw_application/views/foundation5/email/forgot_password-html.php:11
+#: ../../../lw_application/views/foundation5/email/forgot_password-html.php:15
+msgid "Create a new password"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:12
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:4
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:12
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:4
+#: ../../../lw_application/views/foundation5/email/forgot_password-html.php:12
+#: ../../../lw_application/views/foundation5/email/forgot_password-txt.php:4
+msgid "Forgot your password, huh? No big deal."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:13
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:6
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:13
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:6
+#: ../../../lw_application/views/foundation5/email/forgot_password-html.php:13
+#: ../../../lw_application/views/foundation5/email/forgot_password-txt.php:6
+msgid "To create a new password, just follow this link:"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:21
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:11
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:21
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:11
+#: ../../../lw_application/views/foundation5/email/forgot_password-html.php:21
+#: ../../../lw_application/views/foundation5/email/forgot_password-txt.php:11
+msgid "You received this email, because it was requested by a user on"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:21
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:11
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:21
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:11
+#: ../../../lw_application/views/foundation5/email/forgot_password-html.php:21
+#: ../../../lw_application/views/foundation5/email/forgot_password-txt.php:11
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-html.php:21
+#: ../../../lw_application/views/bootstrap2/email/forgot_password-txt.php:11
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-html.php:21
+#: ../../../lw_application/views/bootstrap3/email/forgot_password-txt.php:11
+#: ../../../lw_application/views/foundation5/email/forgot_password-html.php:21
+#: ../../../lw_application/views/foundation5/email/forgot_password-txt.php:11
+msgid ""
+"This is part of the procedure to create a new password on the system. If you "
+"DID NOT request a new password then please ignore this email and your "
+"password will remain the same."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:14
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:21
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:14
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:21
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:14
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:21
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:14
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:21
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:14
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:21
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:14
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:21
+#, php-format
+msgid "%s Order Details"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:22
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:22
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:22
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:22
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:22
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:22
+msgid "Customer Details"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:24
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:110
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:24
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:123
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:24
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:121
+msgid "Business Name"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:26
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:25
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:127
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:26
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:25
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:140
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:26
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:25
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:150
+msgid "Address"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:27
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:26
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:137
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:27
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:26
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:154
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:27
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:26
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:174
+msgid "City"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:28
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:27
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:28
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:27
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:28
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:27
+msgid "Zip"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:29
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:29
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:29
+msgid "Phone"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:30
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:28
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:158
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:30
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:28
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:190
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:30
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:28
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:231
+msgid "Country"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:31
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:167
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:31
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:202
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:31
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:245
+msgid "Message if any"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:34
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:35
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:34
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:35
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:34
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:35
+msgid "Order Details"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:38
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:39
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:30
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:38
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:39
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:34
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:38
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:39
+#: ../../../lw_application/views/foundation5/store/cart_view.php:29
+msgid "Item Description"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:39
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:40
+msgid "Item ID"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:42
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:41
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:109
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:33
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:114
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:42
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:45
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:41
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:40
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:123
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:37
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:127
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:46
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:49
+#: ../../../lw_application/views/bootstrap3/store/products_list_view.php:19
+#: ../../../lw_application/views/bootstrap3/store/temp.php:45
+#: ../../../lw_application/views/bootstrap3/store/temp.php:49
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:41
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:40
+#: ../../../lw_application/views/foundation5/store/add_product_form.php:145
+#: ../../../lw_application/views/foundation5/store/cart_view.php:32
+#: ../../../lw_application/views/foundation5/store/edit_product_form.php:150
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:41
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:47
+msgid "Price"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:43
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:42
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:34
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:42
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:41
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:38
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:42
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:41
+#: ../../../lw_application/views/foundation5/store/cart_view.php:33
+msgid "Qty."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:44
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:43
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:35
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:43
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:42
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:39
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:43
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:42
+#: ../../../lw_application/views/foundation5/store/cart_view.php:34
+msgid "Sub-Total"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:71
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:64
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:71
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:69
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:63
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:83
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:69
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:63
+#: ../../../lw_application/views/foundation5/store/cart_view.php:87
+msgid "Base-Total"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:71
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:64
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:71
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:69
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:63
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:83
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:69
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:63
+#: ../../../lw_application/views/foundation5/store/cart_view.php:87
+msgid "Shipping"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:71
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:64
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:71
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:69
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:63
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:83
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:69
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:63
+#: ../../../lw_application/views/foundation5/store/cart_view.php:87
+msgid "Total"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:73
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:66
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:71
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:65
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:71
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:65
+msgid "Payment Status"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/order_submit_email.php:75
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:78
+#: ../../../lw_application/views/bootstrap3/email/order_submit_email.php:73
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:77
+#: ../../../lw_application/views/foundation5/email/order_submit_email.php:73
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:77
+msgid "Thank You"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:68
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:67
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:67
+msgid "Payment Method"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:70
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:69
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:69
+msgid "Payment Note"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:72
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:71
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:71
+msgid "Transaction ID"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/paypal_order_submit_email.php:75
+#: ../../../lw_application/views/bootstrap3/email/paypal_order_submit_email.php:74
+#: ../../../lw_application/views/foundation5/email/paypal_order_submit_email.php:74
+msgid "Pending Reason"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/reset_password-html.php:12
+#: ../../../lw_application/views/bootstrap2/email/reset_password-txt.php:4
+#: ../../../lw_application/views/bootstrap3/email/reset_password-html.php:12
+#: ../../../lw_application/views/bootstrap3/email/reset_password-txt.php:4
+#: ../../../lw_application/views/foundation5/email/reset_password-html.php:12
+#: ../../../lw_application/views/foundation5/email/reset_password-txt.php:4
+msgid "You have changed your password."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/reset_password-html.php:13
+#: ../../../lw_application/views/bootstrap2/email/reset_password-txt.php:5
+#: ../../../lw_application/views/bootstrap3/email/reset_password-html.php:13
+#: ../../../lw_application/views/bootstrap3/email/reset_password-txt.php:5
+#: ../../../lw_application/views/foundation5/email/reset_password-html.php:13
+#: ../../../lw_application/views/foundation5/email/reset_password-txt.php:5
+msgid "Please, keep it in your records so you don't forget it."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/reset_password-html.php:16
+#: ../../../lw_application/views/bootstrap2/email/reset_password-txt.php:11
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:23
+#: ../../../lw_application/views/bootstrap2/email/welcome-txt.php:14
+#: ../../../lw_application/views/bootstrap3/email/reset_password-html.php:16
+#: ../../../lw_application/views/bootstrap3/email/reset_password-txt.php:11
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:23
+#: ../../../lw_application/views/bootstrap3/email/welcome-txt.php:14
+#: ../../../lw_application/views/foundation5/email/reset_password-html.php:16
+#: ../../../lw_application/views/foundation5/email/reset_password-txt.php:11
+#: ../../../lw_application/views/foundation5/email/welcome-html.php:23
+#: ../../../lw_application/views/foundation5/email/welcome-txt.php:14
+msgid "Your email address:"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:12
+#: ../../../lw_application/views/bootstrap2/email/welcome-txt.php:4
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:12
+#: ../../../lw_application/views/bootstrap3/email/welcome-txt.php:4
+#: ../../../lw_application/views/foundation5/email/welcome-html.php:12
+#: ../../../lw_application/views/foundation5/email/welcome-txt.php:4
+#, php-format
+msgid ""
+"Thanks for joining %s. We listed your sign in details below, make sure you "
+"keep them safe.<br/>"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:13
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:13
+#: ../../../lw_application/views/foundation5/email/welcome-html.php:13
+#, php-format
+msgid "To open your %s homepage, please follow this link:"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/welcome-html.php:16
+#: ../../../lw_application/views/bootstrap3/email/welcome-html.php:16
+#: ../../../lw_application/views/foundation5/email/welcome-html.php:16
+#, php-format
+msgid "Go to %s now!"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/email/welcome-txt.php:5
+#: ../../../lw_application/views/bootstrap3/email/welcome-txt.php:5
+#: ../../../lw_application/views/foundation5/email/welcome-txt.php:5
+msgid "Follow this link to login on the site:"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/add_category_form.php:28
+#: ../../../lw_application/views/bootstrap3/store/add_category_form.php:27
+#: ../../../lw_application/views/foundation5/store/add_category_form.php:26
+msgid "Add New Category"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/add_category_form.php:38
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:97
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:14
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:16
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:33
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:26
+#: ../../../lw_application/views/bootstrap3/store/add_category_form.php:40
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:108
+#: ../../../lw_application/views/bootstrap3/store/categories_view.php:14
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:111
+#: ../../../lw_application/views/bootstrap3/store/products_view.php:16
+#: ../../../lw_application/views/bootstrap3/store/products_view.php:34
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:27
+#: ../../../lw_application/views/foundation5/store/add_category_form.php:42
+#: ../../../lw_application/views/foundation5/store/add_product_form.php:121
+#: ../../../lw_application/views/foundation5/store/categories_view.php:20
+#: ../../../lw_application/views/foundation5/store/edit_product_form.php:124
+#: ../../../lw_application/views/foundation5/store/products_view.php:23
+#: ../../../lw_application/views/foundation5/template/sidebar.php:28
+msgid "Add Category"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/add_category_form.php:39
+#: ../../../lw_application/views/bootstrap2/store/edit_category_form.php:45
+#: ../../../lw_application/views/bootstrap3/store/add_category_form.php:41
+#: ../../../lw_application/views/bootstrap3/store/edit_category_form.php:49
+#: ../../../lw_application/views/foundation5/store/add_category_form.php:43
+#: ../../../lw_application/views/foundation5/store/edit_category_form.php:52
+msgid "Back to Categories"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:94
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:99
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:42
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:45
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:21
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:102
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:106
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:46
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:49
+#: ../../../lw_application/views/bootstrap3/store/products_view.php:21
+#: ../../../lw_application/views/bootstrap3/store/temp.php:45
+#: ../../../lw_application/views/bootstrap3/store/temp.php:49
+#: ../../../lw_application/views/foundation5/store/add_product_form.php:113
+#: ../../../lw_application/views/foundation5/store/edit_product_form.php:116
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:41
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:47
+#: ../../../lw_application/views/foundation5/store/products_view.php:32
+msgid "Category"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:102
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:106
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:114
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:118
+#: ../../../lw_application/views/foundation5/store/add_product_form.php:131
+#: ../../../lw_application/views/foundation5/store/edit_product_form.php:134
+msgid "Thumbnail"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/add_product_form.php:140
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:14
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:16
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:33
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:25
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:159
+#: ../../../lw_application/views/bootstrap3/store/categories_view.php:14
+#: ../../../lw_application/views/bootstrap3/store/products_view.php:16
+#: ../../../lw_application/views/bootstrap3/store/products_view.php:34
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:26
+#: ../../../lw_application/views/foundation5/store/add_product_form.php:205
+#: ../../../lw_application/views/foundation5/store/categories_view.php:18
+#: ../../../lw_application/views/foundation5/store/products_view.php:21
+#: ../../../lw_application/views/foundation5/template/sidebar.php:27
+msgid "Add Product"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:36
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:20
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:22
+#: ../../../lw_application/views/bootstrap3/store/categories_view.php:20
+#: ../../../lw_application/views/bootstrap3/store/products_view.php:22
+#: ../../../lw_application/views/foundation5/store/cart_view.php:35
+#: ../../../lw_application/views/foundation5/store/categories_view.php:29
+#: ../../../lw_application/views/foundation5/store/products_view.php:33
+msgid "Action"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:72
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:70
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:110
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:135
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:234
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:84
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:80
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:123
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:151
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:256
+#: ../../../lw_application/views/bootstrap3/store/temp.php:92
+#: ../../../lw_application/views/bootstrap3/store/temp.php:136
+#: ../../../lw_application/views/bootstrap3/store/temp.php:167
+#: ../../../lw_application/views/foundation5/store/cart_view.php:88
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:103
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:148
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:179
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:291
+msgid "Update"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:74
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:87
+#: ../../../lw_application/views/foundation5/store/cart_view.php:91
+msgid "Continue Shopping"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:76
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:178
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:91
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:217
+#: ../../../lw_application/views/foundation5/store/cart_view.php:93
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:260
+msgid "Submit Order"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:78
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:93
+#: ../../../lw_application/views/foundation5/store/cart_view.php:95
+msgid "Checkout with"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/cart_view.php:165
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:192
+#: ../../../lw_application/views/bootstrap2/template.php:178
+#: ../../../lw_application/views/bootstrap2/template/js_scripts.php:45
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:234
+#: ../../../lw_application/views/bootstrap3/template.php:199
+#: ../../../lw_application/views/bootstrap3/template/js_scripts.php:39
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:277
+#: ../../../lw_application/views/foundation5/template.php:196
+#: ../../../lw_application/views/foundation5/template/js_scripts.php:37
+msgid "Loading..."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:13
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:23
+#: ../../../lw_application/views/bootstrap3/store/categories_view.php:13
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:24
+#: ../../../lw_application/views/foundation5/store/categories_view.php:13
+#: ../../../lw_application/views/foundation5/template/sidebar.php:25
+msgid "Manage Categories"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:19
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:21
+#: ../../../lw_application/views/bootstrap3/store/categories_view.php:19
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:22
+#: ../../../lw_application/views/foundation5/store/categories_view.php:28
+#: ../../../lw_application/views/foundation5/template/sidebar.php:23
+msgid "Products"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:27
+#: ../../../lw_application/views/bootstrap3/store/categories_view.php:27
+#: ../../../lw_application/views/foundation5/store/categories_view.php:36
+msgid "Add Products"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:28
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:82
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:75
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:30
+#: ../../../lw_application/views/bootstrap3/store/categories_view.php:28
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:87
+#: ../../../lw_application/views/bootstrap3/store/products_view.php:30
+#: ../../../lw_application/views/bootstrap3/store/temp.php:99
+#: ../../../lw_application/views/foundation5/store/categories_view.php:39
+#: ../../../lw_application/views/foundation5/store/edit_product_form.php:81
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:112
+#: ../../../lw_application/views/foundation5/store/products_view.php:43
+msgid "Edit"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/categories_view.php:28
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:30
+#: ../../../lw_application/views/bootstrap3/store/categories_view.php:28
+#: ../../../lw_application/views/bootstrap3/store/products_view.php:30
+#: ../../../lw_application/views/foundation5/store/categories_view.php:41
+#: ../../../lw_application/views/foundation5/store/products_view.php:45
+msgid "Delete"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/edit_category_form.php:33
+#: ../../../lw_application/views/bootstrap2/store/edit_category_form.php:44
+#: ../../../lw_application/views/bootstrap3/store/edit_category_form.php:32
+#: ../../../lw_application/views/bootstrap3/store/edit_category_form.php:48
+#: ../../../lw_application/views/foundation5/store/edit_category_form.php:31
+#: ../../../lw_application/views/foundation5/store/edit_category_form.php:51
+msgid "Edit Category"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:110
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:122
+msgid "Current Thumbnail"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:145
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:166
+msgid "Update Product"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/edit_product_form.php:146
+#: ../../../lw_application/views/bootstrap3/store/edit_product_form.php:167
+#: ../../../lw_application/views/foundation5/store/edit_product_form.php:211
+msgid "View Product"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:56
+#: ../../../lw_application/views/bootstrap3/store/temp.php:63
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:64
+msgid "Select Size"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:61
+#: ../../../lw_application/views/bootstrap3/store/temp.php:72
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:77
+msgid "Select Color"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:72
+#: ../../../lw_application/views/bootstrap2/store/product_details_view.php:137
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:82
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:153
+#: ../../../lw_application/views/bootstrap3/store/temp.php:94
+#: ../../../lw_application/views/bootstrap3/store/temp.php:169
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:105
+#: ../../../lw_application/views/foundation5/store/product_details_view.php:181
+msgid "Add to"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/products_list_view.php:15
+#: ../../../lw_application/views/bootstrap3/store/products_list_view.php:15
+#: ../../../lw_application/views/foundation5/store/products_list_view.php:17
+msgid "Sort by"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/products_list_view.php:19
+#: ../../../lw_application/views/bootstrap3/store/products_list_view.php:20
+#: ../../../lw_application/views/foundation5/store/products_list_view.php:20
+msgid "Description"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/products_list_view.php:29
+#: ../../../lw_application/views/bootstrap3/store/products_list_view.php:35
+#: ../../../lw_application/views/foundation5/store/products_list_view.php:35
+msgid "View Details"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/products_list_view.php:33
+#: ../../../lw_application/views/bootstrap3/store/products_list_view.php:39
+#: ../../../lw_application/views/foundation5/store/products_list_view.php:39
+msgid "There are no products to show!!"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/products_view.php:13
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:24
+#: ../../../lw_application/views/bootstrap3/store/products_view.php:13
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:25
+#: ../../../lw_application/views/foundation5/store/products_view.php:16
+#: ../../../lw_application/views/foundation5/template/sidebar.php:26
+msgid "Manage Products"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:41
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:48
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:43
+msgid "Australian Dollar"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:42
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:49
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:44
+msgid "Canadian Dollar"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:43
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:50
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:45
+msgid "Euro"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:44
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:51
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:46
+msgid "British Pound"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:45
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:52
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:47
+msgid "U.S. Dollar"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:46
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:53
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:48
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:47
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:54
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:49
+msgid "Swiss Franc"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:48
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:55
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:50
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:49
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:56
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:51
+msgid "Singapore Dollar"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:50
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:57
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:52
+msgid "Swedish Krona"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:51
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:58
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:53
+msgid "Danish Krone"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:52
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:59
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:54
+msgid "Polish Zloty"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:53
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:60
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:55
+msgid "Norwegian Krone"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:54
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:61
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:56
+msgid "Hungarian Forint"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:55
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:62
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:57
+msgid "Czech Koruna"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:56
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:63
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:58
+msgid "Israeli New Shekel"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:57
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:64
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:59
+msgid "Mexican Peso"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:58
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:65
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:60
+msgid "Brazilian Real (only for Brazilian members)"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:59
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:66
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:61
+msgid "Malaysian Ringgit (only for Malaysian members)"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:60
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:67
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:62
+msgid "Philippine Peso"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:61
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:68
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:63
+msgid "New Taiwan Dollar"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:62
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:69
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:64
+msgid "Thai Baht"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:63
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:70
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:65
+msgid "Turkish Lira (only for Turkish members)"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:126
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:143
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:134
+msgid "Edit Store Settings"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:137
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:157
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:157
+msgid "Logo URL"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:141
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:162
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:162
+msgid "Current Logo"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:151
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:175
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:179
+msgid "Note"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:151
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:175
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:179
+msgid "it will use for PayPal as well as Submit Order."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:157
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:181
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:187
+msgid "Checkout Options"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:161
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:184
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:190
+msgid "Use PayPal"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:169
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:187
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:192
+msgid "Use Submit Order by Email"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:196
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:212
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:233
+msgid "Refer for"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/store_settings_form.php:196
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:212
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:233
+msgid "ASCII Codes"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:20
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:20
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:20
+msgid "First Name"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:30
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:31
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:30
+msgid "Last Name"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:93
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:101
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:93
+msgid "We need some details"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:130
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:143
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:155
+msgid "Street"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:144
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:166
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:193
+msgid "ZIP"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:151
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:179
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:212
+msgid "Ph"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:175
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:214
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:256
+msgid "Back to Cart"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:221
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:264
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:306
+msgid "Processing..."
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:229
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:272
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:314
+msgid "Order Submitted Successfully"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:230
+msgid "Close Details"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:230
+msgid "Close"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/store/submit_order_form.php:234
+#: ../../../lw_application/views/bootstrap3/store/submit_order_form.php:277
+#: ../../../lw_application/views/foundation5/store/submit_order_form.php:319
+msgid "Error Occured. Try Again"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template.php:85
+#: ../../../lw_application/views/bootstrap3/template.php:99
+#: ../../../lw_application/views/foundation5/template.php:76
+msgid "Home"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template.php:96
+#: ../../../lw_application/views/bootstrap3/template.php:111
+#: ../../../lw_application/views/foundation5/template.php:95
+msgid "Howdy"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template.php:131
+msgid "Demo purposes only. Nothing will save!!"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template.php:153
+#: ../../../lw_application/views/bootstrap3/template.php:165
+msgid "&copy; %year% %store_name%"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template.php:158
+#: ../../../lw_application/views/bootstrap3/template.php:172
+msgid ""
+"Powered by <a href=\"http://livelycart.com\" title=\"Powered by LivelyCart\" "
+"target=\"_blank\">LivelyCart</a> - "
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template/js_scripts.php:49
+#: ../../../lw_application/views/bootstrap3/template/js_scripts.php:43
+#: ../../../lw_application/views/foundation5/template/js_scripts.php:41
+msgid "Warning!"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template/js_scripts.php:59
+#: ../../../lw_application/views/bootstrap3/template/js_scripts.php:53
+#: ../../../lw_application/views/foundation5/template/js_scripts.php:51
+msgid "add size"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template/js_scripts.php:60
+#: ../../../lw_application/views/bootstrap3/template/js_scripts.php:54
+#: ../../../lw_application/views/foundation5/template/js_scripts.php:52
+msgid "add color"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template/js_scripts.php:67
+#: ../../../lw_application/views/bootstrap3/template/js_scripts.php:61
+#: ../../../lw_application/views/foundation5/template/js_scripts.php:59
+msgid "Do you really want to delete this Product?"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template/js_scripts.php:77
+#: ../../../lw_application/views/bootstrap3/template/js_scripts.php:71
+#: ../../../lw_application/views/foundation5/template/js_scripts.php:69
+msgid ""
+"Do you really want to delete this Category? All the products within this "
+"category will be deleted!!"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:16
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:17
+#: ../../../lw_application/views/foundation5/template/sidebar.php:18
+msgid "Admin Area"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:19
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:20
+#: ../../../lw_application/views/foundation5/template/sidebar.php:22
+msgid "Store Settings"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:28
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:29
+#: ../../../lw_application/views/foundation5/template/sidebar.php:31
+msgid "Admin Settings"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:39
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:43
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:47
+#: ../../../lw_application/views/foundation5/template/sidebar.php:50
+#: ../../../lw_application/views/foundation5/template/sidebar.php:58
+msgid "Search"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap2/template/sidebar.php:48
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:57
+#: ../../../lw_application/views/foundation5/template/sidebar.php:65
+msgid "Categories"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap3/store/add_product_form.php:83
+#: ../../../lw_application/views/foundation5/store/add_product_form.php:79
+msgid "Add New Product"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap3/store/cart_view.php:40
+msgid "Remove"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap3/store/product_details_view.php:44
+msgid "Edit Product Details"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap3/store/store_settings_form.php:136
+#: ../../../lw_application/views/foundation5/store/store_settings_form.php:128
+msgid ""
+"<span class=\"help-inline\">Use <strong>%shipping_charge%</strong> for No "
+"Free Shipping</span>"
+msgstr ""
+
+#: ../../../lw_application/views/bootstrap3/template/sidebar.php:39
+msgid "Product Search"
+msgstr ""
+
+#: ../../../lw_application/views/foundation5/store/edit_product_form.php:210
+msgid "Edit Product"
+msgstr ""
+
+#: ../../../lw_application/views/foundation5/template.php:36
+msgid ""
+"&copy; %year% %store_name% |  Design &amp; Developed by <a href=\"http://"
+"livelyworks.net\" title=\"Design &amp; Developed by LivelyWorks\" target="
+"\"_blank\">LivelyWorks</a>"
+msgstr ""
+
+#, fuzzy
+#~ msgid "%d items went to the %user% \n"
+#~ msgstr "%d डुकरे %user% ला गेले.,\n"
